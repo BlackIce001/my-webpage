@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+    display: flex;
+}
+
+.nav-list{
+      width:50%;
+      background-color:azure
+}
+
+.nav-list li{
+    list-style:none;
+
+}
+
+.nav-list  li a{
+    text-decoration:none;
+    color: white;
+
+}
+.rightNav{
+    background-color:bisque;
+    width:50%;
+    text-origin:right;
+}
